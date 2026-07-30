@@ -1,0 +1,34 @@
+{
+  "users": {
+    "C742-4537-7291": {
+      "name": "RAYAN",
+      "expiry": "2026-09-09",
+      "active": true
+    },
+    "0CA0-BD0": {
+      "name": "v2",
+      "expiry": "2027-09-15",
+      "active": true
+    },
+        "0CA0-BD7C-70C0": {
+      "name": "cnc",
+      "expiry": "2026-09-15",
+      "active": true
+    },
+    "03340b7": {
+      "name": "zawzaw",
+      "expiry": "2026-09-15",
+      "active": true
+    },
+    "A978-0943-2BFB": {
+      "name": "akon",
+      "expiry": "2026-09-15",
+      "active": true
+    },
+    "9758B": {
+      "name": "zaw",
+      "expiry": "2026-09-15",
+      "active": true
+    }
+  }
+}
